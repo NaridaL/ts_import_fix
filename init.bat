@@ -1,0 +1,1 @@
+cd B & npm link ../A & cd ../C & npm link ../A ../B
